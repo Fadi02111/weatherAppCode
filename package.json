@@ -1,5 +1,12 @@
 {
 
+"name": "Weather App"
+"version":"0.0.1",
+"private":true, 
+"scripts":{
+"start": "nodeapp.js"
+}, 
+
 dependencies"{
 	"aws-sdk": "2.x",
 	"ejs": "2.x", 
